@@ -1,0 +1,7 @@
+sources:
+  - name: src
+    database: SAKILA
+    schema: PUBLIC
+    tables:
+      - name: ACTOR
+        identifier: ACTOR
