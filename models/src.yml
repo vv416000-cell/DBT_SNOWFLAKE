@@ -4,4 +4,18 @@ sources:
     schema: PUBLIC
     tables:
       - name: ACTOR
-        identifier: ACTOR
+      - name: ADDRESS
+      - name: CATEGORY
+      - name: CITY
+      - name: COUNTRY
+      - name: CUSTOMER
+      - name: FILM
+      - name: FILM_ACTOR
+      - name: FILM_CATEGORY
+      - name: FILM_TEXT
+      - name: INVENTORY
+      - name: LANGUAGE
+      - name: PAYMENT
+      - name: RENTAL
+      - name: STAFF
+      - name: STORE
